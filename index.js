@@ -28,8 +28,6 @@ const questions = [
         name: 'install',
         message: " how do you install your application ?"
     },
-    
-    
 
     {
         type: `input`,
